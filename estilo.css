@@ -1,0 +1,142 @@
+
+/*Formatacao para que nao  haja diferenca em outros navegadores */
+html,body,div,span,h1,h2,h3,acronym,img{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+h1{
+    text-align: center;
+	color: rgb(252, 250, 250);
+    font-size: 150px;
+	font-family:'felix titling', serif;
+	margin: 100px;
+	background-image: url(img/proga.jpg);
+	-webkit-background-size: cover;
+	background-attachment: fixed; 
+	-moz-background-size: cover; 
+   -o-background-size: cover; 
+	background-clip:border-box;
+	background-size: cover;
+	background-position:center;
+	height: 30%; 
+	padding: 25%;
+	font-size:70px;
+}	
+
+h3{
+	font-family: 'castellar regular', sans-serif;
+	font-size: 50;
+	text-align: center;
+
+}
+
+h3:hover{
+	color:rgb(255, 254, 254);
+}
+
+
+
+
+body{
+ 	   
+    /*margin: auto;*/
+    text-align: center;
+    text-indent:inherit;
+    /*font-size:20px;*/
+	font-family: 'broadway regular', serif;
+	color: rgb(243, 238, 238);
+	background-color: transparent;
+	background-image:linear-gradient(to bottom right,rgb(7, 7, 7), rgb(7, 7, 7));
+	
+}
+
+#Sobre{
+	background-image: url(img/matrixx.jpg);
+	-webkit-background-size: cover;
+	background-attachment: fixed; 
+	-moz-background-size: cover; 
+   -o-background-size: cover; 
+	background-clip:border-box;
+	background-size: cover;
+	background-position:center;
+	height: 10%; 
+	padding: 10%;
+	font-size:30px;
+	
+	
+	
+}
+#InformaçõesProfissionais{
+	background-image: url(img/matrixx.jpg);
+	-webkit-background-size: cover;
+	background-attachment: fixed; 
+	-moz-background-size: cover; 
+   -o-background-size: cover; 
+	background-clip:border-box;
+	background-size: cover;
+	background-position:center;
+	height: 50%; 
+	padding: 2%;
+	font-size:30px;
+	font-family: 'broadway regular', serif;
+	color: rgb(255, 253, 253);
+}
+#ExperiênciasProfissionais{
+	background-image: url(img/proga.jpg);
+	-webkit-background-size: cover;
+	background-attachment: fixed; 
+	-moz-background-size: cover; 
+   -o-background-size: cover; 
+	background-clip:border-box;
+	background-size: cover;
+	background-position:center;
+	height: 80%; 
+	padding: 2%;
+	font-size:30px;
+	color: rgb(252, 251, 251)
+
+}
+#Hobbies{
+	background-image: url(img/proga.jpg);
+	-webkit-background-size: cover;
+	background-attachment: fixed; 
+	-moz-background-size: cover; 
+   -o-background-size: cover; 
+	background-clip:border-box;
+	background-size: cover;
+	background-position:center;
+	height: 80%; 
+	padding: 2%;
+	font-size:30px;
+	color: rgb(252, 251, 251)
+
+
+
+}
+#contato{
+	background-image: url(img/god.png);
+	-webkit-background-size: cover;
+	background-attachment: fixed; 
+	-moz-background-size: cover; 
+   -o-background-size: cover; 
+	background-clip:border-box;
+	background-size: cover;
+	background-position:center;
+	height: 80%; 
+	padding: 2%;
+	font-size:30px;
+	color: rgb(252, 251, 251)
+
+}
+a {
+	color:rgb(249, 247, 247);
+   }
+   
+   a:hover {
+	color:rgb(247, 5, 5);
+   }
